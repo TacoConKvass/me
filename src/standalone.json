@@ -1,0 +1,36 @@
+[
+    {
+        "name": "RL2.ModLoader",
+        "description": "A mostly feature complete mod loader for Rogue Legacy 2",
+        "github": "https://github.com/RL2-API/RL2.ModLoader",
+        "website": "https://rl2-modloader.pages.dev",
+        "steam": "",
+        "image": "https://repository-images.githubusercontent.com/853525502/67072bdd-cf23-4708-ad87-436e377f9922",
+        "icons": [
+            "https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/c-sharp.svg"
+        ]
+    },
+    {
+        "name": "RL2.API",
+        "description": "A heavy work in progress modding API for Rogue Legacy 2",
+        "github": "https://github.com/RL2-API/RL2.API",
+        "website": "https://rl2-modloader.pages.dev/mod?name=RL2.API",
+        "steam": "",
+        "image": "https://raw.githubusercontent.com/RL2-API/RL2.ModLoader/main/Assets/ModLoaderIcon-NoText-700x700.png",
+        "icons": [
+            "https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/c-sharp.svg"
+        ]
+    },
+    {
+        "name": "RL2.Launcher",
+        "description": "A launcher for RL2.ModLoader and vanilla Rogue Legacy 2",
+        "github": "https://github.com/RL2-API/RL2.Launcher",
+        "website": "",
+        "steam": "",
+        "image": "https://raw.githubusercontent.com/RL2-API/RL2.Launcher/refs/heads/main/public/icon.png",
+        "icons": [
+            "https://camo.githubusercontent.com/c981c262ae5b18fd94cf270c558e997965f760c809cf2b0d838e84d336168270/68747470733a2f2f7777772e727573742d6c616e672e6f72672f6c6f676f732f727573742d6c6f676f2d36347836342e706e67",
+            "https://icon.icepanel.io/Technology/svg/Tauri.svg"
+        ]
+    }
+]
